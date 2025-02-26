@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aseefbandey&label=Profile%20views&color=0e75b6&style=flat" alt="aseefbandey" /> </p>
 
-- 🔭 I’m currently working on *C* *Data Science*
+- 🔭 I’m currently working on *Python* and*Data Science*
 
-- 🌱 I’m currently learning *Data Science* *Python*
+- 🌱 I’m currently learning Python* and*Data Science*
 
 - 👯 I’m looking to collaborate on *Python*
 
-- 💬 Ask me about *Data Science* *Python*
+- 💬 Ask me about *C*,*Python* and *Data Science*
 
 - 📫 How to reach me *aseefahmad46@gmail.com*
 
