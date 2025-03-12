@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Aseef Bandey </h1>
-<h3 align="center">🌱 Budding CSE Student | Code Weaver in Training | ✨ Exploring the Digital Frontier 🚀</h3>
+<h1 align="center">About Me:</h1>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aseefbandey&label=Profile%20views&color=0e75b6&style=flat" alt="aseefbandey" /> </p>
 i'm Aseef, a Data Science & Machine Learning Enthusiast with a background in Computer Science. Passionate about solving real-world problems using data and AI.
