@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm *Aseef, a **Data Science & Machine Learning Enthusiast* with a background in *Computer Science. Passionate about **solving real-world problems* using data and AI.  <br><br>🔹*Tech Stack:* Python, SQL, Pandas, NumPy, Scikit-Learn, TensorFlow<br>🔹 *Currently Learning:* Advanced Machine Learning & Data Structures  <br>🔹*Projects:* Data Science Case Studies, ML Models, and Automation Scripts<br> 🔹*Interests:* AI Research, Deep Learning, and Open-Source Contributions<br>
+I'm *Aseef, a **Data Science & Machine Learning Enthusiast |Full Stack Developer* with a background in *Computer Science. Passionate about **solving real-world problems* using data and AI and web technologies..  <br><br>🔹*Tech Stack:* Python, SQL, Pandas, NumPy, Scikit-Learn, TensorFlow, JavaScript, Html, Django and Css <br>🔹 *Currently Learning:* Advanced Machine Learning & Data Structures  <br>🔹*Projects:* Data Science Case Studies, Full Stack Web App and Automation Scripts<br> 🔹*Interests:* AI Research, Deep Learning, Web Development, and Open-Source Contributions<br>
 
 ## 🌐 Socials:
 [![LinkedIn]([https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://in.linkedin.com/in/aseefbandey)) 
