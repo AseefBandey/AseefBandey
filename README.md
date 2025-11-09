@@ -3,7 +3,7 @@ I'm *Aseef, a **Data Science & Machine Learning Enthusiast |Full Stack Developer
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://in.linkedin.com/in/aseefbandey)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?logo=About.me&logoColor=white)]([https://yourportfolio.link](https://aseef-resume-nu.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?logo=About.me&logoColor=white)](https://aseef-resume-nu.vercel.app/)
 
 
 # 💻 Tech Stack:
