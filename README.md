@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Aseef Banday</h1>
-<h3 align="center">A CSE & Data Science Student from Kashmir!</h3>
+<h3 align="center">A CSE & A Software Engineering Student from Kashmir!</h3>
 
 <img align="right" alt="coding" width="400" src="https://media1.tenor.com/m/DI7x6eNuoFwAAAAC/smoke-anime.gif">
 
@@ -18,11 +18,11 @@
 
 - I’m currently learning **DSA / Python / Data Science**
 
-- I’m looking to collaborate on **Python / Data Science / C++ projects**
+- I’m looking to collaborate on **Python / Data Science**
 
 - All of my projects are available at [https://github.com/aseefbandey](https://github.com/aseefbandey)
 
-- How to reach me **aseefbandey@gmail.com**
+- How to reach me **aseefahmad46@cukashmir.edu.in**
 
 - Let's START!
 
