@@ -23,7 +23,7 @@
 
 - I’m looking to collaborate on **Python / Data Science**
 
-- All of my projects are available at [https://github.com/aseefbandey](https://github.com/aseefbandey)
+- Portfoilio: [https://github.com/aseefbandey](https://aseef-resume-nu.vercel.app/)
 
 - How to reach me **aseefahmad46@cukashmir.edu.in**
 
