@@ -25,8 +25,6 @@
 
 - How to reach me **aseefahmad46@cukashmir.edu.in**
 
-- Let's START!
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
