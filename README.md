@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Aseef Bandey</h1>
 <h3 align="center">A CSE & A Software Engineering Student from Kashmir!</h3>
 
-<img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDRwMmY1Y2RnMG1xb3ZiazZ1MDV5N3o4cm13dmRieWdiOGZoMnhtMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ll6UitLQgPsZs8ihAv/giphy.gif">
+<img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWZldm8xMzE1NGNwOHg4bWtsNjk0NXdla3ZidHdtbzN4NDNpNmd0biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sZ8knYBgNs1letsbPy/giphy.gif">
 
 
 <p align="left">
