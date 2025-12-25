@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Aseef Banday</h1>
+<h1 align="center">Hi , I'm Aseef Bandey</h1>
 <h3 align="center">A CSE & A Software Engineering Student from Kashmir!</h3>
 
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHY0emVpajd5cTNncXltajdjdXRhcW53dWQ4cmIzZTVlYmsyYXE2NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/J5qQHCpkBiMXsoxDdA/giphy.gif">
