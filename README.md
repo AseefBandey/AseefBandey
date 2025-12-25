@@ -1,13 +1,14 @@
 <h1 align="center">Hi , I'm Aseef Banday</h1>
 <h3 align="center">A CSE & A Software Engineering Student from Kashmir!</h3>
 
-<img align="right" alt="coding" width="400" src="https://media1.tenor.com/m/DI7x6eNuoFwAAAAC/smoke-anime.gif">
+<img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHgya2FlemxpeHUycXliMHl2NTdneHN4aXIwdmFxNzA2eGUyeDJvbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/utZFecAQgOAmI/giphy.gif">
 
 
 <p align="left">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHgya2FlemxpeHUycXliMHl2NTdneHN4aXIwdmFxNzA2eGUyeDJvbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/utZFecAQgOAmI/giphy.gif"
+  <img src="https://komarev.com/ghpvc/?username=aseefbandey&label=Profile%20views&color=0e75b6&style=flat"
        alt="aseefbandey" />
 </p>
+
 
 <p align="left">
   <a href="https://in.linkedin.com/in/aseefbandey" target="blank">
