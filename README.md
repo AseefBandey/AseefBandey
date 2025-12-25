@@ -23,7 +23,8 @@
 
 - I’m looking to collaborate on **Python / Data Science**
 
-- Portfoilio: [https://github.com/aseefbandey](https://aseef-resume-nu.vercel.app/)
+- Portfolio: [https://aseef-resume-nu.vercel.app/](https://aseef-resume-nu.vercel.app/)
+
 
 - How to reach me **aseefahmad46@cukashmir.edu.in**
 
