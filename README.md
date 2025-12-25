@@ -2,9 +2,9 @@
 <h3 align="center">A CSE & A Software Engineering Student from Kashmir!</h3>
 
 <!-- <img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3h1bXg4ZWhud3YyMDN6MDAxc2ptYnJ3a294cmNzaW80OTJtcHp4diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5dYiWM1Pm8HMLHVG0Z/giphy.gif"> -->
-<img align="right" alt="coding" width="400" src="https://tenor.com/bYEFt.gif">
+<img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXMyb3F1NHFsZHI5OWVrbm5sd2k2MmU0MGx5dTdsdnNkazUxcGo1YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RCbXWg6QzBFCw/giphy.gif">
 
-<div class="tenor-gif-embed" data-postid="26809997" data-share-method="host" data-aspect-ratio="1.2549" data-width="100%"><a href="https://tenor.com/view/war-cat-war-kitten-cat-ak-cat-ak47-gif-26809997">War Cat War Kitten GIF</a>from <a href="https://tenor.com/search/war+cat-gifs">War Cat GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=aseefbandey&label=Profile%20views&color=0e75b6&style=flat"
