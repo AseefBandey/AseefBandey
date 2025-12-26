@@ -26,8 +26,9 @@
 - Portfolio: [https://aseef-resume-nu.vercel.app/](https://aseef-resume-nu.vercel.app/)
 
 
-- How to reach me - <a href="mailto:aseefahmad46@cukashmir.edu.in">
-    <img src="https://img.shields.io/badge/Email-bandeyfurqanahmed@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+- How to reach me -
+- <a href="mailto:aseefahmad46@cukashmir.edu.in">
+    <img src="https://img.shields.io/badge/Email-aseefahmad46@cukashmir.edu.in-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 
 
