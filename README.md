@@ -23,7 +23,13 @@
 
 - I’m looking to collaborate on **Python / Data Science**
 
-- Portfolio: [https://aseef-resume-nu.vercel.app/](https://aseef-resume-nu.vercel.app/)
+<p align="left">
+  <a href="https://aseef-resume-nu.vercel.app/" target="blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-black?logo=vercel&style=for-the-badge"
+         alt="portfolio" />
+  </a>
+</p>
+
 
 
 - How to reach me -
