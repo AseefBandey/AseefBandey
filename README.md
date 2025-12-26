@@ -16,20 +16,19 @@ src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXMyb3F1NHFsZHI5OWVrbm5sd
 
 <p align="left">
   <a href="https://in.linkedin.com/in/aseefbandey" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge"
-         alt="aseefbandey" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" />
+  </a>
+  <a href="https://aseef-resume-nu.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-000000?style=for-the-badge&logo=vercel" />
+  </a>
+  <a href="mailto:aseefahmad46@cukashmir.edu.in">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
+
 - I’m currently learning **DSA / Python / Data Science**
 - I’m looking to collaborate on **Python / Data Science**
-- Portfolio: [https://aseef-resume-nu.vercel.app/](https://aseef-resume-nu.vercel.app/)
-
-- How to reach me:
-  <a href="mailto:aseefahmad46@cukashmir.edu.in">
-    <img src="https://img.shields.io/badge/Email-aseefahmad46@cukashmir.edu.in-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-         alt="Email"/>
-  </a>
 
 <h3 align="left">Languages and Tools:</h3>
 
